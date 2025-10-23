@@ -8,9 +8,8 @@ I'm a software engineer with an interest in building full-stack applications.
 
 I'm currently building a full-stack Kanban-style project management application.
 
-You can check out the repositories here:
-* **[kanban-backend](https://github.com/ky-ler/kanban-backend)**
-* **[kanban-web](https://github.com/ky-ler/kanban-web)**
+You can check out the main repository here:
+* **[kanban](https://github.com/ky-ler/kanban)**
 
 ---
 
