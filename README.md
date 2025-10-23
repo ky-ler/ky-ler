@@ -1,6 +1,6 @@
 ### Hi there, I'm Kyler 👋
 
-I'm a software engineer with an interest in building complete, full-stack solutions.
+I'm a software engineer with an interest in building full-stack applications.
 
 ---
 
