@@ -1,6 +1,6 @@
 ### Hi there, I'm Kyler 👋
 
-I'm a software engineer with an interest in building complete, full-stack solutions. From designing RESTful APIs to creating intuitive user interfaces, I love bringing ideas to life with code.
+I'm a software engineer with an interest in building complete, full-stack solutions.
 
 ---
 
@@ -9,7 +9,6 @@ I'm a software engineer with an interest in building complete, full-stack soluti
 I'm currently building a full-stack Kanban-style project management application.
 
 You can check out the repositories here:
-* **[kanban (Parent Repo)](https://github.com/ky-ler/kanban)**
 * **[kanban-backend](https://github.com/ky-ler/kanban-backend)**
 * **[kanban-web](https://github.com/ky-ler/kanban-web)**
 
@@ -21,9 +20,9 @@ Here are some of the technologies I'm proficient with:
 
 **Languages:**
 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%23005C84.svg?style=for-the-badge&logo=sql&logoColor=white)
@@ -32,8 +31,8 @@ Here are some of the technologies I'm proficient with:
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Astro](https://img.shields.io/badge/astro-%23FF5D01.svg?style=for-the-badge&logo=astro&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 **Backend & Databases:**
