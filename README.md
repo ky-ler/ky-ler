@@ -1,16 +1,9 @@
-### Hi there, I'm Kyler 👋
+<h1 align="middle">kyler</h1>
 
-I'm a software engineer with an interest in building full-stack applications.
+Full-stack software engineer.
 
----
-
-### 🔭 What I'm Building
-
-I'm currently building a full-stack project management application.
-
-You can check out the repository here:
-* **[kanban](https://github.com/ky-ler/kanban)**
-
----
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ky-ler&layout=compact&theme=radical)
+* **[kanban](https://github.com/ky-ler/kanban)** - Project management application
+* **[harmony](https://github.com/ky-ler/harmony)** - Chat application
+* **[moviepass](https://github.com/ky-ler/moviepass)** - Create and share lists of movies
+* **[applefritter](https://github.com/ky-ler/applefritter)** - Social media application
+* **[ytdownloaderui](https://github.com/ky-ler/YTDownloaderUI)** - YouTube video downloader
