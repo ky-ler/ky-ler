@@ -6,9 +6,9 @@ I'm a software engineer with an interest in building full-stack applications.
 
 ### 🔭 What I'm Building
 
-I'm currently building a full-stack Kanban-style project management application.
+I'm currently building a full-stack project management application.
 
-You can check out the main repository here:
+You can check out the repository here:
 * **[kanban](https://github.com/ky-ler/kanban)**
 
 ---
